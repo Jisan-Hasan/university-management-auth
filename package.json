@@ -12,7 +12,7 @@
   "author": "Jisan",
   "license": "MIT",
   "lint-staged": {
-    "src/**/*.ts": "lint-prettier"
+    "src/**/*.ts": "yarn lint-prettier"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
