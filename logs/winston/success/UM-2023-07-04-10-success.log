@@ -3,1083 +3,1454 @@
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:47:43.155Z'
+  timestamp: '2023-07-04T04:15:25.524Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:47:43.161Z'
+  timestamp: '2023-07-04T04:15:25.534Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:47:59.836Z'
+  timestamp: '2023-07-04T04:15:49.882Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:47:59.841Z'
+  timestamp: '2023-07-04T04:15:49.887Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:07.334Z'
+  timestamp: '2023-07-04T04:16:10.801Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:07.339Z'
+  timestamp: '2023-07-04T04:16:10.807Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:26.980Z'
+  timestamp: '2023-07-04T04:21:46.132Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:26.986Z'
+  timestamp: '2023-07-04T04:21:46.138Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:35.988Z'
+  timestamp: '2023-07-04T04:26:45.181Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:35.993Z'
+  timestamp: '2023-07-04T04:26:45.187Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:37.205Z'
+  timestamp: '2023-07-04T04:26:49.519Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:37.210Z'
+  timestamp: '2023-07-04T04:26:49.524Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:40.879Z'
+  timestamp: '2023-07-04T04:26:53.473Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:40.885Z'
+  timestamp: '2023-07-04T04:26:53.478Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:44.953Z'
+  timestamp: '2023-07-04T04:26:55.108Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:44.959Z'
+  timestamp: '2023-07-04T04:26:55.114Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:50.036Z'
+  timestamp: '2023-07-04T04:27:04.031Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:50.042Z'
+  timestamp: '2023-07-04T04:27:04.036Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:52.828Z'
+  timestamp: '2023-07-04T04:27:07.809Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:52.835Z'
+  timestamp: '2023-07-04T04:27:07.814Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:55.563Z'
+  timestamp: '2023-07-04T04:27:11.395Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:48:55.569Z'
+  timestamp: '2023-07-04T04:27:11.401Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:10.714Z'
+  timestamp: '2023-07-04T04:28:01.007Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:10.720Z'
+  timestamp: '2023-07-04T04:28:01.012Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:12.701Z'
+  timestamp: '2023-07-04T04:28:50.167Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:12.707Z'
+  timestamp: '2023-07-04T04:28:50.173Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:21.276Z'
+  timestamp: '2023-07-04T04:28:53.400Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:21.281Z'
+  timestamp: '2023-07-04T04:28:53.407Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:23.469Z'
+  timestamp: '2023-07-04T04:28:58.039Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:23.475Z'
+  timestamp: '2023-07-04T04:28:58.045Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:25.297Z'
+  timestamp: '2023-07-04T04:28:59.432Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:25.302Z'
+  timestamp: '2023-07-04T04:28:59.440Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:42.693Z'
+  timestamp: '2023-07-04T04:29:01.379Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:49:42.699Z'
+  timestamp: '2023-07-04T04:29:01.384Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:20.250Z'
+  timestamp: '2023-07-04T04:29:07.449Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:20.256Z'
+  timestamp: '2023-07-04T04:29:07.455Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:22.052Z'
+  timestamp: '2023-07-04T04:29:12.341Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:22.058Z'
+  timestamp: '2023-07-04T04:29:12.347Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:23.341Z'
+  timestamp: '2023-07-04T04:29:17.764Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:23.348Z'
+  timestamp: '2023-07-04T04:29:17.770Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:26.225Z'
+  timestamp: '2023-07-04T04:29:21.470Z'
 }
 {
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:21.475Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:24.103Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:24.109Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:46.593Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:46.598Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:52.791Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:52.797Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:57.421Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:57.426Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:58.774Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:29:58.779Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:03.393Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:03.398Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:06.775Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:06.780Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:31.185Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:31.190Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:34.239Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:34.245Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:37.312Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:37.317Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:49.374Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:49.379Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:51.667Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:51.673Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:56.642Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:56.648Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:57.792Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:57.800Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:59.166Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:30:59.171Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:04.077Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:04.083Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:06.923Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:06.928Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:12.630Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:31:12.636Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:35:21.586Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:35:21.592Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:35:24.694Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:35:24.700Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:38:19.839Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:38:19.845Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:38:25.990Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:38:25.995Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:11.473Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:11.479Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:33.385Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:33.390Z'
+}
+{
+  message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:41.749Z'
+}
+{
+  message: 'App is listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:42:41.755Z'
+}
+{
   message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:43:48.819Z'
+}
+{
+  message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:31.340Z'
+  timestamp: '2023-07-04T04:43:48.824Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:36.153Z'
+  timestamp: '2023-07-04T04:43:56.913Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:36.158Z'
+  timestamp: '2023-07-04T04:43:56.919Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:49.462Z'
+  timestamp: '2023-07-04T04:44:18.376Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:51:49.469Z'
+  timestamp: '2023-07-04T04:44:18.381Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:18.976Z'
+  timestamp: '2023-07-04T04:44:19.599Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:18.982Z'
+  timestamp: '2023-07-04T04:44:19.606Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:21.607Z'
+  timestamp: '2023-07-04T04:44:23.626Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:21.613Z'
+  timestamp: '2023-07-04T04:44:23.632Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:24.213Z'
+  timestamp: '2023-07-04T04:44:27.195Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:24.220Z'
+  timestamp: '2023-07-04T04:44:27.200Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:32.278Z'
+  timestamp: '2023-07-04T04:44:34.131Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:32.283Z'
+  timestamp: '2023-07-04T04:44:34.137Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:48.792Z'
+  timestamp: '2023-07-04T04:44:35.646Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:48.798Z'
+  timestamp: '2023-07-04T04:44:35.652Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:54.946Z'
+  timestamp: '2023-07-04T04:44:42.214Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:54.952Z'
+  timestamp: '2023-07-04T04:44:42.220Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:57.404Z'
+  timestamp: '2023-07-04T04:44:44.698Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:52:57.409Z'
+  timestamp: '2023-07-04T04:44:44.703Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:04.316Z'
+  timestamp: '2023-07-04T04:44:45.962Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:04.322Z'
+  timestamp: '2023-07-04T04:44:45.970Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:08.560Z'
+  timestamp: '2023-07-04T04:44:48.956Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:08.565Z'
+  timestamp: '2023-07-04T04:44:48.962Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:10.038Z'
+  timestamp: '2023-07-04T04:44:50.348Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:10.043Z'
+  timestamp: '2023-07-04T04:44:50.354Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:12.091Z'
+  timestamp: '2023-07-04T04:44:54.027Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:12.097Z'
+  timestamp: '2023-07-04T04:44:54.033Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:14.893Z'
+  timestamp: '2023-07-04T04:44:55.611Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:14.898Z'
+  timestamp: '2023-07-04T04:44:55.616Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:18.723Z'
+  timestamp: '2023-07-04T04:45:24.991Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:18.729Z'
+  timestamp: '2023-07-04T04:45:24.998Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:20.865Z'
+  timestamp: '2023-07-04T04:45:32.741Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:20.870Z'
+  timestamp: '2023-07-04T04:45:32.747Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:31.881Z'
+  timestamp: '2023-07-04T04:46:06.243Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:31.887Z'
+  timestamp: '2023-07-04T04:46:06.249Z'
 }
 {
   message: '🗄️ Database connected successfully.',
+  level: 'info',
+  service: 'user-service',
+  label: 'Success!',
+  timestamp: '2023-07-04T04:46:09.279Z'
+}
+{
+  message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:33.374Z'
+  timestamp: '2023-07-04T04:46:09.285Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:35.808Z'
+  timestamp: '2023-07-04T04:47:09.963Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:35.813Z'
+  timestamp: '2023-07-04T04:47:09.969Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:47.171Z'
+  timestamp: '2023-07-04T04:47:30.237Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:47.177Z'
+  timestamp: '2023-07-04T04:47:30.243Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:50.828Z'
+  timestamp: '2023-07-04T04:48:07.414Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:50.834Z'
+  timestamp: '2023-07-04T04:48:07.420Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:54.087Z'
+  timestamp: '2023-07-04T04:48:53.046Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:54.093Z'
+  timestamp: '2023-07-04T04:48:53.053Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:56.407Z'
+  timestamp: '2023-07-04T04:48:55.385Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:56.413Z'
+  timestamp: '2023-07-04T04:48:55.390Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:59.184Z'
+  timestamp: '2023-07-04T04:49:01.035Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:53:59.189Z'
+  timestamp: '2023-07-04T04:49:01.042Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:11.122Z'
+  timestamp: '2023-07-04T04:49:02.532Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:11.127Z'
+  timestamp: '2023-07-04T04:49:02.538Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:15.332Z'
+  timestamp: '2023-07-04T04:49:57.901Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:15.337Z'
+  timestamp: '2023-07-04T04:49:57.907Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:17.021Z'
+  timestamp: '2023-07-04T04:50:07.462Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:17.027Z'
+  timestamp: '2023-07-04T04:50:07.468Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:23.198Z'
+  timestamp: '2023-07-04T04:50:12.799Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:23.203Z'
+  timestamp: '2023-07-04T04:50:12.805Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:29.774Z'
+  timestamp: '2023-07-04T04:50:22.558Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:29.779Z'
+  timestamp: '2023-07-04T04:50:22.564Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:36.380Z'
+  timestamp: '2023-07-04T04:54:54.512Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:36.386Z'
+  timestamp: '2023-07-04T04:54:54.518Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:40.295Z'
+  timestamp: '2023-07-04T04:54:59.297Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:54:40.300Z'
+  timestamp: '2023-07-04T04:54:59.303Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:07.229Z'
+  timestamp: '2023-07-04T04:55:28.497Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:07.234Z'
+  timestamp: '2023-07-04T04:55:28.503Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:41.307Z'
+  timestamp: '2023-07-04T04:55:51.922Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:41.312Z'
+  timestamp: '2023-07-04T04:55:51.928Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:44.500Z'
+  timestamp: '2023-07-04T04:56:03.123Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:44.506Z'
+  timestamp: '2023-07-04T04:56:03.130Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:49.349Z'
+  timestamp: '2023-07-04T04:56:06.111Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:49.355Z'
+  timestamp: '2023-07-04T04:56:06.117Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:51.780Z'
+  timestamp: '2023-07-04T04:56:08.020Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:51.785Z'
+  timestamp: '2023-07-04T04:56:08.026Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:54.305Z'
+  timestamp: '2023-07-04T04:56:11.895Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:54.310Z'
+  timestamp: '2023-07-04T04:56:11.900Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:57.893Z'
+  timestamp: '2023-07-04T04:56:16.144Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:57.898Z'
+  timestamp: '2023-07-04T04:56:16.150Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:59.174Z'
+  timestamp: '2023-07-04T04:56:17.789Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:55:59.179Z'
+  timestamp: '2023-07-04T04:56:17.794Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:33.006Z'
+  timestamp: '2023-07-04T04:56:26.558Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:33.012Z'
+  timestamp: '2023-07-04T04:56:26.565Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:35.343Z'
+  timestamp: '2023-07-04T04:56:27.913Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:35.349Z'
+  timestamp: '2023-07-04T04:56:27.918Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:39.637Z'
+  timestamp: '2023-07-04T04:56:41.085Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:56:39.643Z'
+  timestamp: '2023-07-04T04:56:41.092Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:57:00.873Z'
+  timestamp: '2023-07-04T04:56:42.500Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:57:00.878Z'
+  timestamp: '2023-07-04T04:56:42.506Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:57:09.876Z'
+  timestamp: '2023-07-04T04:56:45.945Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:57:09.881Z'
+  timestamp: '2023-07-04T04:56:45.950Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:07.592Z'
+  timestamp: '2023-07-04T04:56:48.060Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:07.597Z'
+  timestamp: '2023-07-04T04:56:48.065Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:25.202Z'
+  timestamp: '2023-07-04T04:56:51.093Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:25.208Z'
+  timestamp: '2023-07-04T04:56:51.098Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:29.055Z'
+  timestamp: '2023-07-04T04:57:05.092Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:29.060Z'
+  timestamp: '2023-07-04T04:57:05.098Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:34.721Z'
+  timestamp: '2023-07-04T04:57:08.618Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:34.726Z'
+  timestamp: '2023-07-04T04:57:08.624Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:36.814Z'
+  timestamp: '2023-07-04T04:57:09.961Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:36.820Z'
+  timestamp: '2023-07-04T04:57:09.969Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:38.572Z'
+  timestamp: '2023-07-04T04:57:44.096Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:38.577Z'
+  timestamp: '2023-07-04T04:57:44.101Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:42.118Z'
+  timestamp: '2023-07-04T04:57:51.042Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:42.123Z'
+  timestamp: '2023-07-04T04:57:51.047Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:43.311Z'
+  timestamp: '2023-07-04T04:57:53.882Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:43.317Z'
+  timestamp: '2023-07-04T04:57:53.888Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:47.956Z'
+  timestamp: '2023-07-04T04:58:09.835Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:47.962Z'
+  timestamp: '2023-07-04T04:58:09.841Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:49.900Z'
+  timestamp: '2023-07-04T04:58:12.368Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:49.906Z'
+  timestamp: '2023-07-04T04:58:12.373Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:51.022Z'
+  timestamp: '2023-07-04T04:58:29.540Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:51.027Z'
+  timestamp: '2023-07-04T04:58:29.547Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:53.621Z'
+  timestamp: '2023-07-04T04:58:37.665Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:58:53.627Z'
+  timestamp: '2023-07-04T04:58:37.673Z'
 }
 {
   message: '🗄️ Database connected successfully.',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:59:17.029Z'
+  timestamp: '2023-07-04T04:58:40.286Z'
 }
 {
   message: 'App is listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'Success!',
-  timestamp: '2023-06-19T17:59:17.034Z'
+  timestamp: '2023-07-04T04:58:40.291Z'
 }
