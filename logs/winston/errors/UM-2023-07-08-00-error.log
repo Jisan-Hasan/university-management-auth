@@ -1,0 +1,14 @@
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-07T18:11:09.598Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-07T18:11:09.598Z'
+}

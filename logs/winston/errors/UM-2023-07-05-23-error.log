@@ -1,0 +1,105 @@
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:43:33.820Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:43:33.820Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:44:10.794Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:44:10.794Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:45:27.153Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:45:27.153Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:47:19.185Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:47:37.635Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:47:37.635Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:47:51.022Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:48:21.391Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:50:11.547Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:51:10.457Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:51:10.457Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-05T17:51:41.390Z'
+}
