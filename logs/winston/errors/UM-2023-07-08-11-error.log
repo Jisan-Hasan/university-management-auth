@@ -1,0 +1,178 @@
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793480, i: 19 }),
+    signature: {
+      hash: Binary.createFromBase64("hN3iYScgzpr1vyp0swvmWMzufK0=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793480, i: 19 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:18:01.084Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793480, i: 19 }),
+    signature: {
+      hash: Binary.createFromBase64("hN3iYScgzpr1vyp0swvmWMzufK0=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793480, i: 19 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:18:01.084Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793498, i: 27 }),
+    signature: {
+      hash: Binary.createFromBase64("XHx88w360m5TzKp7GCuCMIsfcVY=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793498, i: 27 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:18:19.046Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793498, i: 27 }),
+    signature: {
+      hash: Binary.createFromBase64("XHx88w360m5TzKp7GCuCMIsfcVY=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793498, i: 27 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:18:19.046Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793543, i: 10 }),
+    signature: {
+      hash: Binary.createFromBase64("KTryFmOyDUQf7eyuDEqijzXlhVA=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793543, i: 10 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:19:03.680Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688793543, i: 10 }),
+    signature: {
+      hash: Binary.createFromBase64("KTryFmOyDUQf7eyuDEqijzXlhVA=", 0),
+      keyId: new Long("7202597040847585282")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688793543, i: 10 }),
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:19:03.680Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:21:52.507Z'
+}
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:21:52.507Z'
+}
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:22:17.972Z'
+}
+{
+  stringValue: '"i"',
+  messageFormat: undefined,
+  kind: 'number',
+  value: 'i',
+  path: 'year',
+  reason: null,
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:22:17.972Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:31:30.020Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-08T05:31:30.020Z'
+}
