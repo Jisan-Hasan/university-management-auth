@@ -1,0 +1,42 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:25.872Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:29.375Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:47.943Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:52.399Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:54.599Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:57.085Z'
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-09T16:52:59.689Z'
+}
