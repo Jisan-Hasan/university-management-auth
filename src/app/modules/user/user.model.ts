@@ -4,9 +4,19 @@ import { IUser, UserModel } from './user.interface';
 // create user schema
 const userSchema = new Schema<IUser>(
   {
-    id: { type: String, required: true, unique: true },
-    role: { type: String, required: true },
-    password: { type: String, required: true },
+    id: {
+      type: String,
+      required: true,
+      unique: true,
+    },
+    role: {
+      type: String,
+      required: true,
+    },
+    password: {
+      type: String,
+      required: true,
+    },
     student: {
       type: Schema.Types.ObjectId,
       ref: 'Student',
@@ -15,10 +25,10 @@ const userSchema = new Schema<IUser>(
       type: Schema.Types.ObjectId,
       ref: 'Faculty',
     },
-    admin: {
-      type: Schema.Types.ObjectId,
-      ref: 'Admin',
-    },
+    // admin: {
+    //   type: Schema.Types.ObjectId,
+    //   ref: 'Admin',
+    // },
   },
   {
     timestamps: true,
@@ -27,6 +37,4 @@ const userSchema = new Schema<IUser>(
     },
   }
 );
-
-// create user model
 export const User = model<IUser, UserModel>('User', userSchema);
