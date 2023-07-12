@@ -1,0 +1,256 @@
+{
+  service: 'user-service',
+  message: 'Failed to connect Database connect ECONNREFUSED ::1:27017',
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 702901139,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED ::1:27017
+            at connectionFailureError (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:491:14)
+            at Socket.<anonymous> (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:392:16)
+            at Object.onceWrapper (node:events:628:26)
+            at Socket.emit (node:events:513:28)
+            at emitErrorNT (node:internal/streams/destroy:151:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+            at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+          cause: Error: connect ECONNREFUSED ::1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+            errno: -4078,
+            code: 'ECONNREFUSED',
+            syscall: 'connect',
+            address: '::1',
+            port: 27017
+          },
+          [Symbol(errorLabels)]: Set(1) { 'ResetPool' }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n' +
+    '    at _handleConnectionErrors (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:792:11)\n' +
+    '    at NativeConnection.openUri (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:767:11)',
+  label: 'Error',
+  timestamp: '2023-07-12T07:17:14.658Z'
+}
+{
+  service: 'user-service',
+  message: 'Failed to connect Database connect ECONNREFUSED ::1:27017',
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 703084831,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED ::1:27017
+            at connectionFailureError (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:491:14)
+            at Socket.<anonymous> (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:392:16)
+            at Object.onceWrapper (node:events:628:26)
+            at Socket.emit (node:events:513:28)
+            at emitErrorNT (node:internal/streams/destroy:151:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+            at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+          cause: Error: connect ECONNREFUSED ::1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+            errno: -4078,
+            code: 'ECONNREFUSED',
+            syscall: 'connect',
+            address: '::1',
+            port: 27017
+          },
+          [Symbol(errorLabels)]: Set(1) { 'ResetPool' }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n' +
+    '    at _handleConnectionErrors (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:792:11)\n' +
+    '    at NativeConnection.openUri (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:767:11)',
+  label: 'Error',
+  timestamp: '2023-07-12T07:20:18.367Z'
+}
+{
+  service: 'user-service',
+  message: 'Failed to connect Database connect ECONNREFUSED ::1:27017',
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 703154676,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED ::1:27017
+            at connectionFailureError (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:491:14)
+            at Socket.<anonymous> (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:392:16)
+            at Object.onceWrapper (node:events:628:26)
+            at Socket.emit (node:events:513:28)
+            at emitErrorNT (node:internal/streams/destroy:151:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+            at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+          cause: Error: connect ECONNREFUSED ::1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+            errno: -4078,
+            code: 'ECONNREFUSED',
+            syscall: 'connect',
+            address: '::1',
+            port: 27017
+          },
+          [Symbol(errorLabels)]: Set(1) { 'ResetPool' }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n' +
+    '    at _handleConnectionErrors (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:792:11)\n' +
+    '    at NativeConnection.openUri (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:767:11)',
+  label: 'Error',
+  timestamp: '2023-07-12T07:21:28.195Z'
+}
+{
+  service: 'user-service',
+  message: 'Failed to connect Database connect ECONNREFUSED ::1:27017',
+  reason: TopologyDescription {
+    type: 'Single',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 703416280,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED ::1:27017
+            at connectionFailureError (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:491:14)
+            at Socket.<anonymous> (I:\Advance Development\university-management-auth-service\node_modules\mongodb\src\cmap\connect.ts:392:16)
+            at Object.onceWrapper (node:events:628:26)
+            at Socket.emit (node:events:513:28)
+            at emitErrorNT (node:internal/streams/destroy:151:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+            at processTicksAndRejections (node:internal/process/task_queues:82:21) {
+          cause: Error: connect ECONNREFUSED ::1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+            errno: -4078,
+            code: 'ECONNREFUSED',
+            syscall: 'connect',
+            address: '::1',
+            port: 27017
+          },
+          [Symbol(errorLabels)]: Set(1) { 'ResetPool' }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n' +
+    '    at _handleConnectionErrors (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:792:11)\n' +
+    '    at NativeConnection.openUri (I:\\Advance Development\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:767:11)',
+  label: 'Error',
+  timestamp: '2023-07-12T07:25:49.353Z'
+}

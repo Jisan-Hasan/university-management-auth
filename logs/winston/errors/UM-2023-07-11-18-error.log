@@ -1,0 +1,21 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T12:02:04.458Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T12:02:04.458Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T12:03:52.169Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}

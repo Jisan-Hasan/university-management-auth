@@ -1,0 +1,154 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:02:07.198Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:02:07.198Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:04:02.834Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:04:02.834Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:05:15.029Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:05:15.029Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:10:51.218Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:10:51.218Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:12:02.686Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:12:02.686Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:16:06.759Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:16:06.759Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:36:42.236Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:36:42.236Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:38:20.419Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:38:20.419Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:43:02.052Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:43:02.052Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:53:40.837Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:53:40.837Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:58:01.383Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Error',
+  timestamp: '2023-07-11T11:58:01.383Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
