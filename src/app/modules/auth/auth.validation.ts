@@ -6,10 +6,22 @@ const loginZodSchema = z.object({
     password: z.string({ required_error: 'Password is required' }),
   }),
 });
+
 const refreshTokenZodSchema = z.object({
   cookies: z.object({
     refreshToken: z.string({ required_error: 'Refresh token is required' }),
   }),
 });
 
-export const AuthValidation = { loginZodSchema, refreshTokenZodSchema };
+const changePasswordZodSchema = z.object({
+  body: z.object({
+    oldPassword: z.string({ required_error: 'Current Password is Required' }),
+    newPassword: z.string({ required_error: 'New Password is Required' }),
+  }),
+});
+
+export const AuthValidation = {
+  loginZodSchema,
+  refreshTokenZodSchema,
+  changePasswordZodSchema,
+};
