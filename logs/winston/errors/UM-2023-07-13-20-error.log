@@ -1,0 +1,286 @@
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:43.697Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:46.180Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:47.430Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:49.955Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:52.161Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:53.986Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:55.714Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:57.934Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:15:59.054Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:14.201Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:15.230Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:17.511Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:20.053Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:26.989Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:31.324Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:33.834Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:36.314Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:38.180Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:41.842Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:43.310Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:46.987Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T14:16:49.557Z'
+}

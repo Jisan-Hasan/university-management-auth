@@ -4,6 +4,8 @@ import config from '../../../config';
 import ApiError from '../../../errors/ApiError';
 import { IAcademicSemester } from '../academicSemester/academicSemester.interface';
 import { AcademicSemester } from '../academicSemester/academicSemester.model';
+import { IAdmin } from '../admin/admin.interface';
+import { Admin } from '../admin/admin.model';
 import { IFaculty } from '../faculty/faculty.interface';
 import { Faculty } from '../faculty/faculty.model';
 import { IStudent } from '../student/student.interface';
@@ -15,8 +17,6 @@ import {
   generateFacultyId,
   generateStudentId,
 } from './user.utils';
-import { Admin } from '../admin/admin.model';
-import { IAdmin } from '../admin/admin.interface';
 
 const createStudent = async (
   student: IStudent,
@@ -26,6 +26,7 @@ const createStudent = async (
   if (!user.password) {
     user.password = config.default_student_pass as string;
   }
+
   // set role
   user.role = 'student';
 

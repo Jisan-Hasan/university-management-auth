@@ -1,0 +1,13 @@
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lxf9vua.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'Error',
+  timestamp: '2023-07-13T16:37:16.797Z'
+}
