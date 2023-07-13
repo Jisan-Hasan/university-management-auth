@@ -4,7 +4,7 @@ import config from '../../../config';
 import { IUser, UserModel } from './user.interface';
 
 // create user schema
-const UserSchema = new Schema<IUser>(
+const UserSchema = new Schema<IUser, UserModel>(
   {
     id: {
       type: String,
@@ -18,6 +18,11 @@ const UserSchema = new Schema<IUser>(
     password: {
       type: String,
       required: true,
+      select: 0,
+    },
+    needsPasswordChange: {
+      type: Boolean,
+      default: true,
     },
     student: {
       type: Schema.Types.ObjectId,
@@ -39,6 +44,44 @@ const UserSchema = new Schema<IUser>(
     },
   }
 );
+
+// UserSchema.methods.isUserExists = async function (
+//   id: string
+// ): Promise<Partial<IUser> | null> {
+//   const user = await User.findOne(
+//     { id },
+//     { id: 1, needsPasswordChange: 1, password: 1 }
+//   );
+//   return user;
+// };
+
+// UserSchema.methods.isPasswordMatch = async function (
+//   givenPassword: string,
+//   savedPassword: string
+// ): Promise<boolean> {
+//   const isMatched = await bcrypt.compare(givenPassword, savedPassword);
+//   return isMatched;
+// };
+
+UserSchema.statics.isUserExists = async function (
+  id: string
+): Promise<Pick<
+  IUser,
+  'id' | 'password' | 'needsPasswordChange' | 'role'
+> | null> {
+  const user = await User.findOne(
+    { id },
+    { id: 1, needsPasswordChange: 1, password: 1, role: 1 }
+  );
+  return user;
+};
+UserSchema.statics.isPasswordMatch = async function (
+  givenPassword: string,
+  savedPassword: string
+): Promise<boolean> {
+  const isMatched = await bcrypt.compare(givenPassword, savedPassword);
+  return isMatched;
+};
 
 // pre hook
 UserSchema.pre('save', async function (next) {
